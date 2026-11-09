@@ -100,6 +100,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Dify** | Visual agent orchestration and LLM application development. | [Free / Self-hosted](https://dify.ai) |
 | **airSlate** | End-to-end document workflow and business automation. | [*[Deal TBA]*](https://partnerstack.signnow.com/coupons) |
 | **Emergent Labs** | Custom AI automation and enterprise LLM solutions. | [*[Deal TBA]*](https://get.emergent.sh/promo-code) |
+| **Piloterr** | Web scraping API that handles headless browsers and rotates proxies for you. | [50% off for 3 months (code BLACKFRIDAY50)](https://www.piloterr.com/blackfriday) |
 
 ## 📞 Communication & VoIP
 
