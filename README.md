@@ -25,7 +25,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | Platform | Description | 2026 Deal |
 |---|---|---|
 | **HubSpot** | Inbound marketing, sales pipelines, and customer service suite. | [Up to 45% off annual plans](https://go.try-hubspot.com/promo) |
-| **ActiveCampaign** | Email marketing automation and CRM platform. | [*[Deal TBA]*](https://try.activecampaign.com/prices) |
+| **ActiveCampaign** | Email marketing automation and CRM platform. | [40% off for new subscribers](https://try.activecampaign.com/prices) |
 | **Pipedrive** | Sales-focused CRM and pipeline tracking tool. | [35% off annual plans](https://aff.trypipedrive.com/9n5kxf7y1g5d) |
 | **Seamless.AI** | Real-time B2B contact and company lead search engine. | [*[Deal TBA]*](https://get.seamless.ai/discount) |
 | **Tweetfull** | X / Twitter growth and audience automation utility. | [*[Deal TBA]*](https://tweetfull.pxf.io/vDk57N) |
@@ -52,8 +52,8 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **Elementor Pro** | Drag-and-drop visual page builder for WordPress. | [*[Deal TBA]*](https://be.elementor.com/visit/?bta=204490&nci=5352) |
-| **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 83% off + 20% extra](https://www.hostg.xyz/SHI0u) |
+| **Elementor Pro** | Drag-and-drop visual page builder for WordPress. | [Up to 65% off Sitewide](https://be.elementor.com/visit/?bta=204490&nci=5352) |
+| **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 87% off + 10% off with code BLACKFRIDAY](https://www.hostg.xyz/SHI0u) [1] |
 | **ClickFunnels** | Sales funnel builder and conversion marketing software. | [Scale plan for $99/3mo](https://www.clickfunnels.com/pricing?aff=plans) |
 | **Leadpages** | High-converting landing page and lead capture builder. | [*[Deal TBA]*](https://try.leadpages.com/iycxgq5f3u37-pricing) |
 | **Bluehost** | WordPress-recommended shared and cloud web hosting. | [*[Deal TBA]*](https://bluehost.sjv.io/5kEWvn) |
@@ -82,7 +82,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **AdCreative.ai** | AI-powered ad creative and banner generator. | [*[Deal TBA]*](https://free-trial.adcreative.ai/full-access) |
 | **CapCut** | Video editing platform with automated AI creation tools. | [*[Deal TBA]*](https://capcutaffiliateprogram.pxf.io/pro) |
-| **ElevenLabs** | Realistic voice synthesis, text-to-speech, and voice cloning. | [*[Deal TBA]*](https://try.elevenlabs.io/promo-code) |
+| **ElevenLabs** | Realistic voice synthesis, text-to-speech, and voice cloning. | [Up to 55% off annual plans](https://try.elevenlabs.io/promo-code) |
 | **Gamma.app** | AI generation workspace for decks, documents, and web pages. | [*[Deal TBA]*](https://try.gamma.app/coupon) |
 | **Murf AI** | Studio-quality AI voiceover generation and audio transcription. | [*[Deal TBA]*](https://get.murf.ai/3wiwco1xw1bv) |
 | **Pixverse** | AI video generation tool from text and images. | [*[Deal TBA]*](https://motivaiprivatelimited.sjv.io/promo) |
@@ -91,9 +91,9 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **n8n** | Advanced workflow automation tool with extensive API connectors. | [*[Deal TBA]*](https://n8n.partnerlinks.io/pricing-plans) |
-| **Manychat** | Automated chat marketing for WhatsApp, Instagram, and SMS. | [*[Deal TBA]*](https://manychat.partnerlinks.io/50) |
-| **Typeform** | Conversational, dynamic forms, surveys, and quizzes. | [*[Deal TBA]*](https://typeform.partnerlinks.io/free-trial) |
+| **n8n** | Advanced workflow automation tool with extensive API connectors. | [17% off annual / 50% off Business](https://n8n.partnerlinks.io/pricing-plans) |
+| **Manychat** | Automated chat marketing for WhatsApp, Instagram, and SMS. | [50% off first 2 months of Pro](https://manychat.partnerlinks.io/50) |
+| **Typeform** | Conversational, dynamic forms, surveys, and quizzes. | [20% off annual plans](https://typeform.partnerlinks.io/free-trial) |
 | **Landbot** | No-code chatbot platform for websites and messaging apps. | [*[Deal TBA]*](https://get.landbotlab.com/06nxjsewp38c) |
 | **Tidio** | Live chat solution powered by integrated AI support agents. | [*[Deal TBA]*](https://tidio.pxf.io/ai) |
 | **Ollama** | Run large language models locally on macOS, Linux, and Windows. | [100% Free](https://ollama.com) |
@@ -105,8 +105,8 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **Aircall** | Cloud-based business phone system and call center software. | [*[Deal TBA]*](https://get.aircall.io/discount) |
-| **KrispCall** | Virtual cloud telephony for modern businesses. | [*[Deal TBA]*](https://try.krispcall.com/promo) |
+| **Aircall** | Cloud-based business phone system and call center software. | [Unlimited AI Voice Agent minutes](https://get.aircall.io/discount) |
+| **KrispCall** | Virtual cloud telephony for modern businesses. | [Up to 2 months free](https://try.krispcall.com/promo) |
 | **800.com** | Toll-free vanity numbers and business communication tools. | [*[Deal TBA]*](https://try.800.com/offers) |
 | **AT&T** | Enterprise telecommunications, internet, and networking solutions. | [*[Deal TBA]*](https://attmarketplace.partnerlinks.io/wireless-deals) |
 
@@ -116,7 +116,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **Gravity** | Integrated merchant processing and business banking services. | [*[Deal TBA]*](https://try.gravity.com/coupon) |
 | **BILL** | Automated financial operations and accounts payable. | [*[Deal TBA]*](https://referral.bill.com/promo) |
-| **Dext** | Accounting automation for data extraction and bookkeeping. | [*[Deal TBA]*](https://join.dext.com/coupon) |
+| **Dext** | Accounting automation for data extraction and bookkeeping. | [15% off for 12 months](https://join.dext.com/coupon) |
 
 ## 💼 Business, Management & HR
 
