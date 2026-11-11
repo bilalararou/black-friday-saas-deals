@@ -56,7 +56,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 87% off + 10% off with code BLACKFRIDAY](https://www.hostg.xyz/SHI0u) |
 | **ClickFunnels** | Sales funnel builder and conversion marketing software. | [Scale plan for $99/3mo](https://www.clickfunnels.com/pricing?aff=plans) |
 | **Leadpages** | High-converting landing page and lead capture builder. | [*[Deal TBA]*](https://try.leadpages.com/iycxgq5f3u37-pricing) |
-| **Bluehost** | WordPress-recommended shared and cloud web hosting. | [*[Deal TBA]*](https://bluehost.sjv.io/5kEWvn) |
+| **Bluehost** | WordPress-recommended shared and cloud web hosting. | [*[Up to 25% off hosting & AI bundles]*](https://bluehost.sjv.io/5kEWvn) |
 | **HostGator** | Shared hosting, dedicated servers, and domain services. | [*[Deal TBA]*](https://hostgator.pvxt.net/VO9JMR) |
 | **Coolify** | Self-hosted, privacy-first alternative to Heroku/Vercel/Netlify. | [Free / Self-hosted](https://coolify.io) |
 | **Ghost** | Modern publishing platform for blogs, newsletters, and subscriptions. | [Free / Open Core](https://ghost.org) |
